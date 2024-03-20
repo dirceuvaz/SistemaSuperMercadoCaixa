@@ -58,7 +58,9 @@ Para executar este projeto localmente, siga os passos abaixo:
 2.Certifique-se de ter o Apache Tomcat configurado na IDE. Na pasta dependências dentro do projeto tem os arquivos servidor Tomcat para configurar no Eclipse.
   Segue o link do vídeo:
   https://www.youtube.com/watch?v=3j1gHlvXaSo
-  [![Apresentação de Servlets e JSP - Desenvolvimento Web com Java](https://img.youtube.com/vi/3j1gHlvXaSo/0.jpg)](https://www.youtube.com/watch?v=3j1gHlvXaSo)
+  
+  [![Apresentação de Servlets e JSP - Desenvolvimento Web com Java](https://img.youtube.com/vi/3j1gHlvXaSo/0.jpg)]
+  (https://www.youtube.com/watch?v=3j1gHlvXaSo)
 
   
   
